@@ -1,5 +1,4 @@
-![LATAM Zoom background purple](https://user-images.githubusercontent.com/40369168/210138301-bccb7722-f63e-4230-a222-408c99d2b7d3.png)
-
+![Python Course from Nitin Classes](https://user-images.githubusercontent.com/40369168/210151799-069832c4-056a-476d-84b8-9c5d096bdf31.png)
 
 # Python classes
 
