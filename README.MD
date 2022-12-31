@@ -5,8 +5,8 @@
 
 > This repo contains all the class notes from day 1 to the very last day.  
 > The details and files will be uploaded in day-wise manner.  
-> Have any doubt or questions? Ask from [Issues](https://github.com/nitinkumar30/pythonClasses/issues)  
-> Have some advice for me? Feel free to tell in [PR](https://github.com/nitinkumar30/pythonClasses/pulls)  
+> Have any doubt or questions? Ask from [Issues](https://github.com/nitinkumar30/pythonClasses/issues).  
+> Have some advice for me? Feel free to tell in [PR](https://github.com/nitinkumar30/pythonClasses/pulls).  
 
 # Curriculum
 
