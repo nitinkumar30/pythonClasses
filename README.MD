@@ -1,3 +1,4 @@
+![LATAM Zoom background purple](https://user-images.githubusercontent.com/40369168/210138301-bccb7722-f63e-4230-a222-408c99d2b7d3.png)
 
 
 # Python classes
