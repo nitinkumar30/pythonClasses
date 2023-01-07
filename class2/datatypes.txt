@@ -1,0 +1,12 @@
+
+Built-in Datatypes:
+
+1. Text - str
+2. Numeric - int, float, complex(2+5j)
+3. Sequence - List, tuple, range
+4. Mapping - dict
+5. Set - set, frozenset
+6. Boolean - bool
+7. Binary - bytes, bytearray, memoryview
+8. None - Nonetype
+
